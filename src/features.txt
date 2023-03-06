@@ -1,0 +1,6 @@
+restaurant availability feature -> custom hook 
+search bar
+routing
+------------------------------------------------
+shimmer ui
+restname in route
